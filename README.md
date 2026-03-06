@@ -158,7 +158,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the skill template and guidelines.
 Built as part of the **Agent Skills Community** on Facebook.
 A place where builders share skills, ask questions, and grow the library together.
 
-👉 Join us → [Link to your Facebook Group]
+👉 Join us → facebook: agent skills
 
 ---
 
